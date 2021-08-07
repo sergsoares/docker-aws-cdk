@@ -6,6 +6,7 @@ RUN apk -v --no-cache --update add \
         nodejs \
         npm \
         python3 \
+        py-pip \
         ca-certificates \
         groff \
         less \
